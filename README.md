@@ -1,2 +1,15 @@
-# Demo-CMSUmijs
-Demo CMS in Umijs
+# umi project
+
+## Getting Started
+
+Install dependencies,
+
+```bash
+$ yarn
+```
+
+Start the dev server,
+
+```bash
+$ yarn start
+```

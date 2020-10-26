@@ -1,0 +1,34 @@
+{
+    "name": "@types/serialize-javascript",
+    "version": "4.0.0",
+    "description": "TypeScript definitions for serialize-javascript",
+    "license": "MIT",
+    "contributors": [
+        {
+            "name": "François Nguyen",
+            "url": "https://github.com/lith-light-g",
+            "githubUsername": "lith-light-g"
+        },
+        {
+            "name": "Pochodaydayup",
+            "url": "https://github.com/Pochodaydayup",
+            "githubUsername": "Pochodaydayup"
+        },
+        {
+            "name": "Undefined",
+            "url": "https://github.com/masnn",
+            "githubUsername": "masnn"
+        }
+    ],
+    "main": "",
+    "types": "index.d.ts",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+        "directory": "types/serialize-javascript"
+    },
+    "scripts": {},
+    "dependencies": {},
+    "typesPublisherContentHash": "a76d5154db054c46179297bf7953d37a55181319d471e56f1cada8c742bb44eb",
+    "typeScriptVersion": "3.0"
+}
